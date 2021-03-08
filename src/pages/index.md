@@ -1,23 +1,24 @@
 ---
 templateKey: index-page
-title: Martin's Research blog
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Martin's research blog
+image: /img/iog-photo-1.jpg
+heading: Good research supports excellent outcomes
+subheading: This is my research for ADT1 - Web design
 mainpitch:
-  title: Why Kaldi
+  title: UX design
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+    Our research into UX design puts the user first, making accessible, modern
+    websites that load fast, are secure, and are easy to use via multiple
+    viewports and device widths.
+description: Thinking like a designer can transform the way organizations
+  develop products, services, processes, and strategy. This approach, which is
+  known as design thinking, brings together what is desirable from a human point
+  of view with what is technologically feasible and economically viable. It also
+  allows people who aren't trained as designers to use creative tools to address
+  a vast range of challenges. (https://designthinking.ideo.com/)
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/dt-2-converge_diverge.svg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
@@ -45,11 +46,12 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    Design thinking is a human-centered approach to innovation that draws from
+    the designer’s toolkit to integrate the needs of people, the possibilities
+    of technology, and the requirements for business success.
+
+    —TIM BROWN, EXECUTIVE CHAIR OF IDEO
 main:
   heading: Great coffee with no compromises
   description: >
